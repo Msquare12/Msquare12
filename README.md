@@ -1,3 +1,4 @@
+![logo](https://stat.illinois.edu/sites/default/files/styles/page_width/public/2021-06/Word%20image.jpg?itok=iJ9RRNsi)
 <h1 align="center">Hi 👋, I'm Malyaj Mishra</h1>
 <h3 align="center">A Data Science professional.</h3>
 
