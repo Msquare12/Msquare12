@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msquare12&label=Profile%20views&color=0e75b6&style=flat" alt="msquare12" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Msquare12](https://github.com/Msquare12)
+- 👨‍💻 All of my projects are available at [https://github.com/Msquare12?tab=repositories](https://github.com/Msquare12?tab=repositories)
 
 - 💬 Always ready to discuss **Machine Learning, Deep Learning & Sports Analytics**
 
