@@ -1,6 +1,6 @@
 ![logo](https://stat.illinois.edu/sites/default/files/styles/page_width/public/2021-06/Word%20image.jpg?itok=iJ9RRNsi)
 <h1 align="center">Hi 👋, I'm Malyaj Mishra</h1>
-<h3 align="center">A Data Science professional.</h3>
+<h3 align="center">A Computer Vision Engineer from India.</h3>
 
 <img align="right" alt="coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Msquare12?tab=repositories](https://github.com/Msquare12?tab=repositories)
 
-- 💬 Always ready to discuss **Machine Learning, Deep Learning & Sports Analytics**
+- 💬 Always ready to discuss **Deep Learning, Computer Vision & Sports Analytics**
 
 - 📫 Let's connect **malyajmishra3@gmail.com**
 
